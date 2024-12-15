@@ -15,7 +15,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NetExamples\NetExamples.csproj" />
-    <ProjectReference Include="..\SwaggerCustom\SwaggerCustom.csproj" />
     <ProjectReference Include="..\Swagger\Swagger.csproj" />
   </ItemGroup>
 
